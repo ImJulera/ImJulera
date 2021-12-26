@@ -8,12 +8,13 @@
 <!--GitHub Stats-->
 <div align="center">
   <a href="https://github.com/LordTheCheater">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordTheCheater&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordTheCheater&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LordTheCheater&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordTheCheater&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <!--Linguagens-->
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br>
   <h1>Linguagens já utilizadas: </h1>
   <img align="center" alt="Lord-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Lord-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
