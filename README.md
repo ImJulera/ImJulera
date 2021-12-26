@@ -1,6 +1,6 @@
 ## Mekiee malta! Eu sou o Diogo Júlio 👋
 
-- 👨‍🎓 Curso: Curso Técnico Superior Profissional de Programação de Sistemas de Informação
+- 👨‍🎓 Curso: Técnico Superior Profissional de Programação de Sistemas de Informação
 - 📚 Estudando programação no geral.
 - 📫 Contacte-me por email: lordthecheater@gmail.com
 <br>
