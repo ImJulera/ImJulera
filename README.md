@@ -25,5 +25,5 @@
 </div>
 
 ##
-
-<img align="right" alt="Lord-pic" height="150" style="border-radius:50px;" src="https://avatarfiles.alphacoders.com/210/210217.jpg">
+<br>
+<img align="center" alt="Lord-pic" style="border-radius:50px;" src="https://www.whatspaper.com/wp-content/uploads/2021/10/hollow-knight-wallpaper-whatspaper-5.jpg">
