@@ -1,4 +1,4 @@
-## Mekiee people! 👋
+## HI! 👋
 
 - 🧑 Nome: Diogo Júlio
 - 👨‍🎓 Curso: Técnico Superior Profissional de Programação de Sistemas de Informação
